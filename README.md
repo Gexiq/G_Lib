@@ -1,1 +1,1 @@
-# G_Lib
+Copy your PDF into books/ and name it ICAS_Y2010-12_6_MERGE.pdf, then upload all files to GitHub and enable GitHub Pages.

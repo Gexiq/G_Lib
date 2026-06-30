@@ -1,0 +1,1 @@
+const q=document.getElementById('q');if(q)q.oninput=()=>{const c=document.querySelector('.card');c.style.display=c.innerText.toLowerCase().includes(q.value.toLowerCase())?'block':'none';};
